@@ -1,4 +1,4 @@
-Swapped-Logit-Distillation (Multimedia Systems 2025).
+## Swapped-Logit-Distillation (Multimedia Systems 2025).
 
 ### Installation
 
