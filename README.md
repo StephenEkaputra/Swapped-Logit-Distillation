@@ -14,6 +14,10 @@ sudo pip3 install -r requirements.txt
 sudo python3 setup.py develop
 ```
 
+### SLD Framework
+
+<div style="text-align:center"><img src="img/sld.png" width="80%" ></div>
+
 ### CIFAR-100
 
 
