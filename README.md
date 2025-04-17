@@ -1,6 +1,6 @@
 ## Swapped-Logit-Distillation (Multimedia Systems 2025)
 
-<div style="text-align:center"><img src="img/swap.png" width="30%" ></div>
+<div style="text-align:center"><img src="img/swap.png" width="50%" ></div>
 
 ### Abstract
 
