@@ -34,5 +34,22 @@ sudo python3 setup.py develop
 # Acknowledgement
 Thank you for the contributors to the mdistiller codebase. The code is built on [mdistiller](<https://github.com/megvii-research/mdistiller>).
 
+# Citation
+
+If this repo is helpful for your research, please consider citing the paper:
+
+```BibTeX
+@article{limantoro2025sld,
+  title={Swapped logit distillation via bi-level teachers alignment},
+  author={Limantoro, Stephen Ekaputra and Lin, Jhe-Hao and Wang, Chih-Yu and Tsai, Yi-Lung and Shuai, Hong-Han and Huang, Ching-Chun and Cheng, Wen-Huang},
+  journal={Multimedia Systems},
+  volume={x},
+  number={x},
+  pages={x},
+  year={2025},
+  publisher={Springer}
+}
+```
+
 # Contact
 [Stephen][(https://github.com/StephenEkaputra)]: stephenekaputra@gmail.com
