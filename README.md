@@ -1,5 +1,9 @@
 ## Swapped-Logit-Distillation (Multimedia Systems 2025).
 
+### Abstract
+
+Knowledge distillation (KD) compresses the network capacity by transferring knowledge from a large (teacher) network to a smaller one (student). It has been mainstream that the teacher directly transfers knowledge to the student with its original distribution, which can possibly lead to incorrect predictions. In this article, we propose a logit-based distillation via swapped logit processing, namely Swapped Logit Distillation (SLD). SLD is proposed under two assumptions: (1) the wrong prediction occurs when the prediction label confidence is not the maximum; (2) the “natural” limit of probability remains uncertain as the best value addition to the target cannot be determined. To address these issues, we propose a swapped logit processing scheme. Through this approach, we find that the swap method can be effectively extended to teacher and student outputs, transforming into two teachers. We further introduce loss scheduling to boost the performance of two teachers' alignment. Extensive experiments on image classification tasks demonstrate that SLD consistently performs best among previous state-of-the-art methods.
+
 ### Installation
 
 Environments:
@@ -38,6 +42,10 @@ sudo python3 setup.py develop
 # Acknowledgement
 Thank you for the contributors to the mdistiller codebase. The code is built on [mdistiller](<https://github.com/megvii-research/mdistiller>).
 
+# Contact
+
+Stephen: stephenekaputra@gmail.com
+
 # Citation
 
 If this repo is helpful for your research, please consider citing the paper:
@@ -53,7 +61,11 @@ If this repo is helpful for your research, please consider citing the paper:
   year={2025},
   publisher={Springer}
 }
-```
 
-# Contact
-[Stephen]: stephenekaputra@gmail.com
+@article{limantoro2025sld,
+  title={Swapped logit distillation via bi-level teachers alignment},
+  author={Limantoro, Stephen Ekaputra and Lin, Jhe-Hao and Wang, Chih-Yu and Tsai, Yi-Lung and Shuai, Hong-Han and Huang, Ching-Chun and Cheng, Wen-Huang},
+  journal={arXiv preprint arXiv:x},
+  year={2025}
+}
+```
