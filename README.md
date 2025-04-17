@@ -56,4 +56,4 @@ If this repo is helpful for your research, please consider citing the paper:
 ```
 
 # Contact
-[Stephen][(https://github.com/StephenEkaputra)]: stephenekaputra@gmail.com
+[Stephen]: stephenekaputra@gmail.com
