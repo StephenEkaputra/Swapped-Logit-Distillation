@@ -38,7 +38,7 @@ sudo python3 setup.py develop
 - Download the dataset at <https://image-net.org/> and put them to `./data/imagenet`
 
   ```bash
-  python3 tools/train_ours.py --cfg configs/imagenet/r34_r18/kd_ours.yaml
+  python3 tools/train_ours.py --cfg configs/imagenet/r34_r18/sld.yaml
   ```
 
 # Acknowledgement
