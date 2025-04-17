@@ -42,7 +42,7 @@ sudo python3 setup.py develop
   ```
 
 # Acknowledgement
-Thank you for the contributors to the mdistiller codebase. The code is built on [mdistiller](<https://github.com/megvii-research/mdistiller>).
+Thank you for the contributors to the mdistiller codebase. The code is built on [mdistiller](<https://github.com/megvii-research/mdistiller>) and [mlkd](<https://github.com/Jin-Ying/Multi-Level-Logit-Distillation>).
 
 # Contact
 
