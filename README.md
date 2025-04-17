@@ -1,4 +1,6 @@
-## Swapped-Logit-Distillation (Multimedia Systems 2025).
+## Swapped-Logit-Distillation (Multimedia Systems 2025)
+
+<div style="text-align:center"><img src="img/swap.png" width="70%" ></div>
 
 ### Abstract
 
@@ -20,7 +22,7 @@ sudo python3 setup.py develop
 
 ### SLD Framework
 
-<div style="text-align:center"><img src="img/sld.png" width="80%" ></div>
+<div style="text-align:center"><img src="img/sld.png" width="70%" ></div>
 
 ### CIFAR-100
 
