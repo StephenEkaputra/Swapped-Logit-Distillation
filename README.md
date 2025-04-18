@@ -53,7 +53,6 @@ Stephen: stephenekaputra@gmail.com
 If this repo is helpful for your research, please consider citing the paper:
 
 ```BibTeX
-[//]: # (
 @article{limantoro2025sld,
   title={Swapped logit distillation via bi-level teachers alignment},
   author={Limantoro, Stephen Ekaputra and Lin, Jhe-Hao and Wang, Chih-Yu and Tsai, Yi-Lung and Shuai, Hong-Han and Huang, Ching-Chun and Cheng, Wen-Huang},
@@ -64,7 +63,7 @@ If this repo is helpful for your research, please consider citing the paper:
   year={2025},
   publisher={Springer}
 }
-)
+
 @article{limantoro2025sld,
   title={Swapped logit distillation via bi-level teachers alignment},
   author={Limantoro, Stephen Ekaputra and Lin, Jhe-Hao and Wang, Chih-Yu and Tsai, Yi-Lung and Shuai, Hong-Han and Huang, Ching-Chun and Cheng, Wen-Huang},
