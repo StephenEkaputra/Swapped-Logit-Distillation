@@ -1,4 +1,4 @@
-## Swapped-Logit-Distillation (Multimedia Systems 2025)
+## Swapped Logit Distillation via Bi-Level Teacher Alignment
 
 <div style="text-align:center"><img src="img/swap.png" width="50%" ></div>
 
@@ -53,19 +53,9 @@ Stephen: stephenekaputra@gmail.com
 If this repo is helpful for your research, please consider citing the paper:
 
 ```BibTeX
-@article{limantoro2025sld,
-  title={Swapped logit distillation via bi-level teachers alignment},
-  author={Limantoro, Stephen Ekaputra and Lin, Jhe-Hao and Wang, Chih-Yu and Tsai, Yi-Lung and Shuai, Hong-Han and Huang, Ching-Chun and Cheng, Wen-Huang},
-  journal={Multimedia Systems},
-  volume={x},
-  number={x},
-  pages={x},
-  year={2025},
-  publisher={Springer}
-}
 
 @article{limantoro2025sld,
-  title={Swapped logit distillation via bi-level teachers alignment},
+  title={Swapped logit distillation via bi-level teacher alignment},
   author={Limantoro, Stephen Ekaputra and Lin, Jhe-Hao and Wang, Chih-Yu and Tsai, Yi-Lung and Shuai, Hong-Han and Huang, Ching-Chun and Cheng, Wen-Huang},
   journal={arXiv preprint arXiv:x},
   year={2025}
