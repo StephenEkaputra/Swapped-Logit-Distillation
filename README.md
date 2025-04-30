@@ -1,4 +1,5 @@
 ## Swapped Logit Distillation via Bi-Level Teacher Alignment
+[![](https://img.shields.io/badge/arXiv-2403.01427-green.svg)](https://arxiv.org/abs/2504.20108)
 
 <div style="text-align:center"><img src="img/swap.png" width="50%" ></div>
 
