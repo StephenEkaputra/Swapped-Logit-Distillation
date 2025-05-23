@@ -58,7 +58,12 @@ If this repo is helpful for your research, please consider citing the paper:
 @article{limantoro2025sld,
   title={Swapped logit distillation via bi-level teacher alignment},
   author={Limantoro, Stephen Ekaputra and Lin, Jhe-Hao and Wang, Chih-Yu and Tsai, Yi-Lung and Shuai, Hong-Han and Huang, Ching-Chun and Cheng, Wen-Huang},
-  journal={arXiv preprint arXiv:2504.20108},
-  year={2025}
+  journal={Multimedia systems},
+  volume={31},
+  number={3},
+  pages={264},
+  year={2025},
+  publisher={Springer}
 }
+
 ```
