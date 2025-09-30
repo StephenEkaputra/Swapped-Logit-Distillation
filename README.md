@@ -1,5 +1,5 @@
 ## Swapped Logit Distillation via Bi-Level Teacher Alignment
-[![](https://img.shields.io/badge/arXiv-2504.20108-green.svg)](https://arxiv.org/abs/2504.20108) [![](https://img.shields.io/badge/multimediasystem-red.svg)](https://link.springer.com/article/10.1007/s00530-025-01797-3)
+[![](https://img.shields.io/badge/arXiv-2504.20108-green.svg)](https://arxiv.org/abs/2504.20108) [![](https://img.shields.io/badge/paper-multimediasystem-red.svg)](https://link.springer.com/article/10.1007/s00530-025-01797-3)
 
 <div style="text-align:center"><img src="img/swap.png" width="50%" ></div>
 
